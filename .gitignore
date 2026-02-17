@@ -1,0 +1,21 @@
+# Data (don't upload patient/large data)
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs
+reports/*.png
+reports/*.pdf
