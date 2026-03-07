@@ -1,6 +1,7 @@
 # Data (don't upload patient/large data)
 data/raw/
 data/processed/
+papers
 
 # Python
 __pycache__/
